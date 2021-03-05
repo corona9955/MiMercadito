@@ -12,15 +12,11 @@ Se plantea poder realizar las siguientes tareas, todas con el fin de economizar 
 - [ ] Categorizar productos
 - [ ] Registra tus productos!
    - [ ] Por día: Mantén el control de todos los artículos que vas agregando a tu carrito físico en tu aplicación virtual.
-   - [ ] ¡Por semana o más!: Visualiza los gastos que has realizado en tu semana, donde podrás consultar cada movimiento anterior
    - [ ] Suma de tus productos
 - visualiza un reporte sobre tus gastos
    - [ ] Por dia
    - [ ] Semanal
    - [ ] Mensual
-- [ ] Recomendaciones, ¡Ofertas!
-- [ ] Interacción con
-   - [ ] Escuchar cada uno de los textos que existan en la aplicación.
 
 ## Escalabilidad
 Nuestro sistema esta diseñado para ser utilizado por todos los usuarios que hablen español, sin embargo, algunos de los puntos que se podrían resolver al momento de tener los recursos necesarios serian:
