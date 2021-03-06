@@ -5,6 +5,8 @@ Con ayuda de nuestra aplicación podrás registrar los productos de tu carrito f
 # Operaciones que puedes realizar con nosotros
 Se plantea poder realizar las siguientes tareas, todas con el fin de economizar y garantizar la satisfacción del usuario.
 
+
+
 - [ ] Planifica tus compras!
 - [ ] Establece límites de compra
    - [ ] Puedes configurar nuestra aplicación para poder comprar cierta cantidad de calorías.
