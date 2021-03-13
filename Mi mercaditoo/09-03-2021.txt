@@ -1,0 +1,1 @@
+Se realizo la conexion y creación de la base de datos, se enlazo con el registro de c#
